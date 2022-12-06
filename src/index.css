@@ -1,0 +1,17 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  text-transform: capitalize;
+}
+
+a {
+  text-decoration: none;
+  color: unset;
+}
+
+@media (max-width: "450px") {
+  .css-1frubgd-MuiGrid-root {
+    width: 100% !important;
+  }
+}
